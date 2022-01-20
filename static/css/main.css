@@ -1,0 +1,21 @@
+body {
+    background-color: #F0F0F0;
+}
+
+article {
+    background-color: #fff;
+}
+
+.article-content {
+    padding: 35px 10px;
+    margin: 25px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+/* overriding the same class in Bootstrap */
+.container {
+    max-width: 1900px;
+}
